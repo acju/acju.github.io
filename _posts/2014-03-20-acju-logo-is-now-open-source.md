@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ACJU LOGO is now Open Source"
-date:   2014-03-12 10:00:00
+date:   2014-03-20 19:11:00
 categories: design
 author: Yoosuf Muhammad
 author_url: https://plus.google.com/+YoosufMuhammad‎
